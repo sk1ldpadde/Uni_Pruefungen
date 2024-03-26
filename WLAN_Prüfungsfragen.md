@@ -25,4 +25,8 @@ m = 3 bedeutet, dass der Längste Pfad für einen Datenstrom aus 3 "Speicherelem
 Lc heißt man zählt die Speicherelemente meist m+1
 --> Durch die Punktierung kann man auf einen weiteren kodierungsschritt verzichten
 
+Wahrscheiniche Prüfungsaufgabe:
+OFDM Pfade rückwärts verfolgen können
+
+
   
