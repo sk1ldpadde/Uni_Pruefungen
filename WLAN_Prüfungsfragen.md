@@ -29,4 +29,12 @@ Wahrscheiniche Prüfungsaufgabe:
 OFDM Pfade rückwärts verfolgen können
 
 
-  
+Vorlesung 5 oder so:
+
+Paritybits!
+Was benötigt ein ESS--> Zwei BSS und ein Distribution System
+
+Was sind die Vorteile von 16QAM gegenüber 16PSK?
+
+16 QAM hat einen größeren FEHLERABSTAND!! --> Fehlertoleranter! Besseres Signal zu Rausch verhältnis
+Was bringt das ganze: Je weiter man vom Sender weg kommt, desto kleiner die Signalstärke; Rauschen bleibt gleich --> Bei einem besseren SNR hat man eine *höhere Reichweite!*
