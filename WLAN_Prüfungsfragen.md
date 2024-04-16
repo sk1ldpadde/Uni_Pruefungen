@@ -49,7 +49,7 @@ Auf welcher Ebene wird das bearbeitet?
 
 Welche schritte muss eine station abhandeln, damit sie sich mit einem AccessPoint verbindet:  
 1. Scanning --> Default = Passiv: Beacon Frames auswerten; Aktiv = ProbeRequest schicken.
-2. Authentification
+2. Authentification --> OpenSystem und sharedkey
 3. Assoziation
    
 
