@@ -38,3 +38,18 @@ Was sind die Vorteile von 16QAM gegenüber 16PSK?
 
 16 QAM hat einen größeren FEHLERABSTAND!! --> Fehlertoleranter! Besseres Signal zu Rausch verhältnis
 Was bringt das ganze: Je weiter man vom Sender weg kommt, desto kleiner die Signalstärke; Rauschen bleibt gleich --> Bei einem besseren SNR hat man eine *höhere Reichweite!*
+
+
+- welche verschiedene Accessmethoden gibt es: (Quality of Service QoS) 
+--> Best Effort, Bacjground, Video, Voice
+
+Auf welcher Ebene wird das bearbeitet? 
+--> Medienzugriffsverfahren
+
+
+Welche schritte muss eine station abhandeln, damit sie sich mit einem AccessPoint verbindet:  
+1. Scanning --> Default = Passiv: Beacon Frames auswerten; Aktiv = ProbeRequest schicken.
+2. Authentification
+3. Assoziation
+   
+
