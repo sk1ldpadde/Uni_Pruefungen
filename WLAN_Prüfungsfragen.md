@@ -51,5 +51,7 @@ Welche schritte muss eine station abhandeln, damit sie sich mit einem AccessPoin
 1. Scanning --> Default = Passiv: Beacon Frames auswerten; Aktiv = ProbeRequest schicken.
 2. Authentification --> OpenSystem und sharedkey
 3. Assoziation
-   
+
+
+Wireshark: Was macht die duration? --> SendeTime, dh alle anderen setzen ihren NAV solange wie der sender meint, dass er sendet (duration)
 
