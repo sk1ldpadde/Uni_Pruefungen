@@ -53,5 +53,5 @@ Welche schritte muss eine station abhandeln, damit sie sich mit einem AccessPoin
 3. Assoziation
 
 
-Wireshark: Was macht die duration? --> SendeTime, dh alle anderen setzen ihren NAV solange wie der sender meint, dass er sendet (duration)
+Wireshark: Was macht die duration? --> SendeTime, dh alle anderen setzen ihren NAV solange wie der sender meint, dass er sendet (duration) WICHTIG
 
