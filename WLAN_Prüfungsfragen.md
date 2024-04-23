@@ -55,3 +55,9 @@ Welche schritte muss eine station abhandeln, damit sie sich mit einem AccessPoin
 
 Wireshark: Was macht die duration? --> SendeTime, dh alle anderen setzen ihren NAV solange wie der sender meint, dass er sendet (duration) WICHTIG
 
+
+- Was ist der Unterschied zwischen H-ebene und E-Ebene?
+  schaubilder
+
+Randnotiz: Wlan mact nur veränderungen in OSI-EBnenen 1&2. Ab 3 ist wlan nicht mehr von lan zu unterscheiden (glaube). 
+
