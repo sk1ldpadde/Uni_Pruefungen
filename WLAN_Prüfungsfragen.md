@@ -61,3 +61,8 @@ Wireshark: Was macht die duration? --> SendeTime, dh alle anderen setzen ihren N
 
 Randnotiz: Wlan mact nur veränderungen in OSI-EBnenen 1&2. Ab 3 ist wlan nicht mehr von lan zu unterscheiden (glaube). 
 
+Was erleiden denn Funkwellen...: Transimission ist das was ankommt
+Absorption (Dämpfung), Reflektion, Beugung
+
+Für was kann ich die Absorption nutzen: Daten kapseln/isolieren von außen
+
